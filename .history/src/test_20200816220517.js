@@ -61,7 +61,7 @@ const player = {
         player.play();
     },
     hidden: () => {
-        player.ui.demo.style.display = "none";
+        player.ui.demo.style.display = none;
     }
 }
 
